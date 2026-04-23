@@ -39,6 +39,18 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'fintech',
+    'IT',
+    'avtosalon',
+    'boshqa',
+    'market',
+    'media',
+    'restoran',
+    'savdo',
+    'sport',
+    'talim',
+    'tibbiyot',
+    'transport',
+    'uyjoy',
     'rest_framework',
 ]
 
